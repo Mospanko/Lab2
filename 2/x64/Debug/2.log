@@ -1,0 +1,10 @@
+﻿  2.cpp
+  Fraction.cpp
+D:\User\Desktop\OOP-main\2\2\Fraction.cpp(39,34): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\User\Desktop\OOP-main\2\2\Fraction.cpp(50,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\User\Desktop\OOP-main\2\2\Fraction.cpp(51,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\User\Desktop\OOP-main\2\2\Fraction.cpp(62,39): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\User\Desktop\OOP-main\2\2\Fraction.cpp(73,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\User\Desktop\OOP-main\2\2\Fraction.cpp(74,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  2.vcxproj -> D:\User\Desktop\OOP-main\2\x64\Debug\2.exe

@@ -1,0 +1,5 @@
+﻿  3.cpp
+  Airplane.cpp
+D:\User\Desktop\OOP-main\2\3\Airplane.cpp(149,41): warning C4244: =: преобразование "size_t" в "double", возможна потеря данных
+  Создание кода...
+  3.vcxproj -> D:\User\Desktop\OOP-main\2\x64\Debug\3.exe
